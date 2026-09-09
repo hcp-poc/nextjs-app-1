@@ -1,0 +1,1 @@
+import './globals.css';export const metadata={title:'Next.js Operations Portal',description:'Frontend POC'};export default function RootLayout({children}){return <html lang='en'><body>{children}</body></html>}
