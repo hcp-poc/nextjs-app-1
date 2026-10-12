@@ -11,7 +11,6 @@ COPY . .
 
 RUN npm run build
 
-
 # Runtime stage with node22
 FROM node:22-alpine
 
